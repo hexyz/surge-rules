@@ -1,0 +1,5 @@
+# 强制使用美国线路
+PROCESS-NAME,/Applications/TablePro.app/
+PROCESS-NAME,/Applications/ChatGPT.app/
+DOMAIN-SUFFIX,chatgpt.com
+PROCESS-NAME,/Applications/ChatGPT.app/Contents/Resources/codex
